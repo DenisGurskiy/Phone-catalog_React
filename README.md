@@ -17,6 +17,16 @@ Welcome to React Phone Catalog! This is a single page application built with Rea
 6. Git: Version control system for tracking changes.
 7. GitHub Pages: Hosting platform for deploying the application.
 
+# Installation
+To run this project locally, follow these steps:
+1. Clone the repository:
+ - git clone https://github.com/DenisGurskiy/Phone-catalog_React.git
+2. Install dependencies:
+ - npm install
+3. Run the development server:
+ - npm start
+4. Open your browser and visit http://localhost:3000 to view the application.
+
 # Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
